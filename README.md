@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadusman95-swl&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadusman95-swl" /> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **DSA in python🐍**
 
 - 📫 How to reach me **musmancsuet@gmail.com**
 
