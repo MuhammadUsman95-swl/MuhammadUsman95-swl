@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in python🐍**
 
-- 📫 How to reach me **musmancsuet@gmail.com**
+- ✉️ How to reach me **musmancsuet@gmail.com**
 
 - ⚡ Fun fact **I am a serious person**
 
