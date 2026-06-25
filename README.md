@@ -11,8 +11,7 @@
 
 - 🎓 BS Computer Science student at **UET Lahore**
 - ✉️ Reach me at **musmancsuet@gmail.com**
-- ⚡ Fun fact: I once built an ESP32-based phone-detection system for exam halls 📡
-
+⚡ Fun fact: Give me a hard problem over a easy day, any time
 <br clear="right"/>
 
 ### 🚀 Featured Projects
