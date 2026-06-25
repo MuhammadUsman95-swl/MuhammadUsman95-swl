@@ -11,7 +11,7 @@
 
 - 🎓 BS Computer Science student at **UET Lahore**
 - ✉️ Reach me at **musmancsuet@gmail.com**
-⚡ Fun fact: Give me a hard problem over a easy day, any time
+- ⚡ Fun fact: Give me a hard problem over a easy day, any time
 <br clear="right"/>
 
 ### 🚀 Featured Projects
