@@ -10,9 +10,6 @@
 <img align="right" alt="coding" width="380" src="https://i.gifer.com/Bg2B.gif">
 
 - 🎓 BS Computer Science student at **UET Lahore**
-- 🔭 Currently building **full-stack & federated database projects** (FastAPI, React, MongoDB, PostgreSQL)
-- 🌱 Learning **Data Structures & Algorithms in Python** and modern web frameworks
-- 💡 Interested in **web development, backend systems, and embedded/IoT (ESP32) projects**
 - ✉️ Reach me at **musmancsuet@gmail.com**
 - ⚡ Fun fact: I once built an ESP32-based phone-detection system for exam halls 📡
 
